@@ -54,6 +54,7 @@ The set referenced from [30 Claude skills to run your Instagram page](https://oo
 - [Reel Builder](skills/reel-builder/SKILL.md) — the whole reel, beat by beat.
 - [A/B Hook Tester](skills/ab-hook-tester/SKILL.md) — two hooks, one variable, a real answer.
 - [Carousel Builder](skills/carousel-builder/SKILL.md) — one idea, ten slides, a save at the end.
+- [Carousel (PT-BR)](skills/carousel/SKILL.md) — carrossel completo em português, do gancho (banco com 500 ganchos) até a CTA.
 - [Viral Carousel](skills/viral-carousel/SKILL.md) — find the carousels your niche saved, then build yours on their structure.
 - [Story Sequencer](skills/story-sequencer/SKILL.md) — an arc that earns the tap-through.
 - [Cover & Thumbnail Brief](skills/cover-thumbnail-brief/SKILL.md) — the frame that stops the scroll on the grid.
