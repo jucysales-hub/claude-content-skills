@@ -89,13 +89,31 @@ Nomes de conceito: 2-4 palavras, memoráveis ("Efeito trilho", "Interesse é com
 - Pelo menos 1 **prova na tela**: print de estudo, manchete, gráfico, estatística.
 - Roupa/cenário com detalhe ligado ao tema (ex.: touca de natação no caso Phelps).
 
-## Banco de pautas
-Pessoas que falaram publicamente (confirmar a fonte antes de gravar): Michael Phelps (TDAH),
-Simone Biles (TDAH), Paris Hilton (TDAH), Justin Timberlake (TDAH), Emma Stone (ansiedade/pânico),
-Ryan Reynolds (ansiedade), Selena Gomez (ansiedade).
-Fenômenos e marcas (sem risco de diagnóstico alheio): ofensiva do Duolingo, rolagem infinita,
-notificações, "procrastinação produtiva", lista de tarefas que nunca acaba, ansiedade de domingo à noite,
-mensagem "visualizada", o "vou só ver um vídeo" às 2h da manhã.
+## Regra de tradução (ler antes de escolher a pauta)
+O criador de referência é especialista em marketing e analisa casos famosos **pela lente do marketing**.
+Os personagens dele não são marqueteiros; o que eles **fizeram** vira aula de marketing.
+A tradução correta para psiquiatra é:
+
+> **Caso notável (o que alguém FEZ) → lente do cérebro → o que isso explica sobre a ansiedade/TDAH de quem assiste.**
+
+- O personagem **não precisa ter** TDAH ou ansiedade. Não falar da cabeça dele; falar da **estratégia/ação** dele.
+  (Erro a evitar: transformar o vídeo em "fulano tem TDAH" — vira fofoca de diagnóstico e tira a autoridade dela.)
+- Os 3 pontos são o que **o personagem/marca fez**, cada um explicado pelo mecanismo cerebral.
+- Uma frase-ponte leva para o espectador, como no original ("o que ela fez é o que toda marca deveria fazer"):
+  "o que [ele] fez é exatamente o que [quem tem ansiedade / TDAH] precisa fazer" ou
+  "você não está sem força de vontade: está competindo com [quem desenhou isso]".
+- O público que o caso atrai tem que ser **adulto** (quem vira paciente/seguidor), não só "muita gente".
+- Um tema por vídeo: ansiedade **ou** TDAH (o sono, a atenção, o desempenho podem ser a ponte entre os dois).
+
+## Banco de pautas (lente psiquiátrica, sem diagnosticar ninguém — confirmar dados antes de gravar)
+| Caso notável | Gancho "E o/a..." | Lente / tema |
+|---|---|---|
+| Netflix — CEO disse em 2017 que o concorrente é o sono | "E o CEO da Netflix que admitiu que o maior concorrente dele é o seu sono" | Sono, procrastinação na hora de dormir (TDAH e ansiedade) |
+| Phelps — final dos 200m borboleta em Pequim 2008, óculos cheios de água, nadou contando braçadas | "E o nadador que venceu uma final olímpica sem enxergar nada" | Ensaio mental e preparo contra ansiedade de desempenho |
+| Taylor Swift — treinou o show de 3h correndo na esteira e cantando o setlist inteiro | "E a cantora que ensaiou correndo na esteira..." | Treino em condição real/exposição gradual (ansiedade) |
+| Pouso no rio Hudson (2009) — sob pane total, a tripulação abriu o checklist | "E o piloto que pousou um avião num rio com 155 pessoas... e a primeira coisa que fez foi ler uma lista" | Memória externa e checklists (TDAH) |
+| Duolingo — ofensiva, lição curta, notificação | "E o app que te ameaça com uma coruja verde..." | Recompensa imediata, barreira de início (TDAH) |
+| Feed infinito / autoplay | "E o botão que foi tirado de propósito do seu celular..." | Recompensa variável, ponto de parada (TDAH) |
 
 ## Saída
 Para cada roteiro entregar:
